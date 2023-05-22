@@ -11,8 +11,15 @@
   <br />
   <img src="https://img.shields.io/badge/Express-black?logo=Express&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=MySQL&logoColor=white" />
-  
   <br/>
-  [![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=janjaejin)](https://github.com/mazassumnida/janjaejin)
 </div>
+<br/>
+<hr/>
+<br/>
+<div align="center">
+  <h1>Baekjoon Profile</h1>
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=janjaejin" />
+ </div>
+<br/>
+<hr/>
+<br/>
